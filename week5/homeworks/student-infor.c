@@ -3,7 +3,7 @@ int main (){
     char ten1[50], ten2[50], que1[50], que2[50];
     int tuoi1, tuoi2;
     ten2 != que1;
-
+printf("DAY LA MOT CON CHO RAT NGU");
     
 gets(ten1);
 gets(que1);
